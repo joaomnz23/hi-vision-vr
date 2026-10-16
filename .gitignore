@@ -1,0 +1,16 @@
+# Build e Gradle
+build/
+app/build/
+.gradle/
+captures/
+
+# IDE
+.idea/
+*.iml
+
+# Configuração local
+local.properties
+
+# Sistema
+.DS_Store
+Thumbs.db
